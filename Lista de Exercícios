@@ -15,3 +15,11 @@ Lista de Exercícios
 11- Faça um programa que leia a largura ea a altura de uma parede em metros, e calcule sua área e a quantidade de tinta necessária para printa-la. Considerando que cada litro de tinta pinte um área de 2m²
 12- Faça um algorítimo que leia o preço de um prduto e mostre seu novo preço, com 5% de desconto.
 13- Faça um algoritimo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+14- Escreva um programa que converta uma temperatura em Cº e tranforme em Fº
+15- Escreva um programa que pergunte aquantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$015 por Km rodado.
+16- Crie um programa que leia um numero real qualquer pelo teclado, e mostre na tela sua porção inteira.
+17- Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre sua hipotenusa.
+18- Fala um programa que leia um ângulo qualquer e mostre na tela o valor de seno, cosseno e tangente desse ângulo.
+19- Um professor quer sortear um dos seus alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome escolhido.
+20- O mesmo professor do desafio anterior quer sortear a ordem de apresentação dos trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostra a ordem sorteada.
+21- Faça um programa que abra e reproduza um áudio de um arquivo mp3.
